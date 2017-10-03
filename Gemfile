@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-# gem 'rmagick', require: 'RMagick'
+gem 'rmagick', require: 'RMagick'
 gem 'mini_magick', '~> 4.7'
 
 group :development, :test do
